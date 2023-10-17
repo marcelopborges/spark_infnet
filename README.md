@@ -2,7 +2,7 @@
 ## Curso de Engenharia de Dados - INFNET
 ### Professor: André Ormastroni Victor
 
-Descrição
+## Descrição
 Este repositório contém dois notebooks em Python que utilizam a biblioteca PySpark para realizar análises de dados e treinamento de modelo de aprendizado de máquina.
 
 Uso
