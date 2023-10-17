@@ -17,5 +17,5 @@ Tratamento de dados
 Divisão dos dados em conjuntos de treinamento e teste
 Treinamento do modelo e métricas de desempenho
 Contribuição
-Para contribuir com este projeto, por favor, entre em contato com [SEU EMAIL].
+Para contribuir com este projeto, por favor, entre em contato marcelo.borges@al.infnet.edu.br .
 
